@@ -37,4 +37,3 @@ NVIDIA RTX price
 NVIDIA RTX availability
 NVIDIA RTX 4000 specs
 NVIDIA 4000 series upgrade
-NVIDIA 4000 series improvements

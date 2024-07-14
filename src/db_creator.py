@@ -1,8 +1,5 @@
-from models import (
-    PostInfoModel,
-    Base,
-    ENGINE,
-)
+from models import (ENGINE, Base, PostInfoModel, PostInfoModelComp,
+                    PostInfoModelComp1)
 
 
 def create_db():
