@@ -1,0 +1,15 @@
+AMD Radeon
+Radeon RX 7000 series
+Radeon RX 7900 XT
+Radeon RX 7800 XT
+Radeon RX 7700 XT
+Intel Arc
+Intel Arc A770
+Intel Arc A750
+AMD vs NVIDIA
+AMD GPU performance
+Intel GPU performance
+Radeon VRAM
+Radeon clock speed
+Radeon temperatures
+GPU market competition

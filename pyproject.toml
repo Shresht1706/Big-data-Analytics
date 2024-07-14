@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "big-data-analytics"
+version = "0.1.0"
+description = "Homework for big data analytics"
+authors = ["danila12315454 <danilaprig@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+
+[tool.poetry.dependencies]
+python = "^3.12"
+tqdm = "^4.66.4"
+selenium = "^4.22.0"
+beautifulsoup4 = "^4.12.3"
+tweepy = "^4.14.0"
+pydantic = "^2.8.2"
+pydantic-settings = "^2.3.4"
+psycopg2-binary = "^2.9.9"
+sqlalchemy = "^2.0.31"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.4.2"
+isort = "^5.13.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

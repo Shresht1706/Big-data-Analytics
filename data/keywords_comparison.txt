@@ -1,0 +1,20 @@
+VRAM
+Clock speed
+Temperatures
+GPU performance
+Memory bandwidth
+Ray tracing
+DLSS
+CUDA cores
+TDP
+Power efficiency
+Overclocking
+Cooling solutions
+Benchmark scores
+Frame rates
+4K gaming
+1440p gaming
+1080p gaming
+Gaming performance
+Synthetic benchmarks
+Real-world performance

@@ -10,13 +10,13 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/danila12315454/Big-data-Analytics?logo=github)
 ![GitHub pull requests closed](https://img.shields.io/github/issues-pr-closed/danila12315454/Big-data-Analytics?logo=github)
 
-# __Market Sentiment analysis 4060 graphic cards for Nvidia.__
+# __Market Sentiment analysis Nvidia graphical processing units.__
 
 
 ---
 
 # Table of Contents
-## 1. [Introduction](assets/Introduction.md)
+## 1. [Introduction and Problem Definition](assets/Introduction.md)
 ## 2. [Data Collection](assets/Data-Collection.md)
 ## 3. [Data Preprocessing](assets/Data-Preprocessing.md)
 ## 4. [Data Analysis](assets/Data-Analysis.md)
