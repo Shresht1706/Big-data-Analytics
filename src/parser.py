@@ -197,7 +197,7 @@ class Parser:
                 if iteration % commit_iterations == 0 or iteration == iterations - 1:
                     for post in new_posts:
                         session.add(
-                            PostInfoModel(**post.model_dump())
+                            PostInfoModelComp(**post.model_dump())
                         )  # should be changed for writing to different tables
 
                     self.log_info(f"Committed {len(parsed_posts)} posts")
@@ -235,7 +235,7 @@ if __name__ == "__main__":
     )
     if parser.login_on_page(save_cookies=True):
         local_keywords = (
-            (Path(__file__).parent.parent / "data" / "keywords_nvidia.txt")
+            (Path(__file__).parent.parent / "data" / "keywords_comparison.txt")
             .read_text()
             .split("\n")[::-1]
         )
